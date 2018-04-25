@@ -10,6 +10,7 @@ mod cluster;
 mod database;
 mod transaction;
 mod errors;
+mod bindings;
 
 use futures::Future;
 

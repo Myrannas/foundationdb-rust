@@ -1,5 +1,0 @@
-[workspace]
-members = ["foundationdb",
-           "foundationdb-rs",
-           "foundationdb-tuples",
-           "forge"]

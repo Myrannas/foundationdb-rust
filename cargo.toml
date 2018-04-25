@@ -8,3 +8,6 @@ foundationdbrs = { version = "0.1.0", path = "../foundationdb-rs" }
 futures = "0.1.21"
 failure = "0.1.1"
 failure_derive = "0.1.1"
+
+[build-dependencies]
+bindgen = "0.26.3"

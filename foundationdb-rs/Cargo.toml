@@ -1,7 +1,0 @@
-[package]
-name = "foundationdbrs"
-version = "0.1.0"
-authors = ["michael <michael@forge.app>"]
-
-[build-dependencies]
-bindgen = "0.26.3"
