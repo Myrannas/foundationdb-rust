@@ -1,0 +1,10 @@
+[package]
+name = "foundationdb"
+version = "0.1.0"
+authors = ["michael <michael@forge.app>"]
+
+[dependencies]
+foundationdbrs = { version = "0.1.0", path = "../foundationdb-rs" }
+futures = "0.1.21"
+failure = "0.1.1"
+failure_derive = "0.1.1"
