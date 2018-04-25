@@ -1,0 +1,6 @@
+[package]
+name = "foundationdb-rust"
+version = "0.1.0"
+authors = ["michael <michael@linedup.io>"]
+
+[dependencies]
